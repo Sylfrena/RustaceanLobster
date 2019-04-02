@@ -1,2 +1,2 @@
 # RustaceanLobster
-Just a repository for my Rusty young days.
+Just a place for my Rusty young days.
